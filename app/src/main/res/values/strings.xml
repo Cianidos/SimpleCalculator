@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="plus">+</string>
+    <string name="take">-</string>
+    <string name="multiple">x</string>
+    <string name="divide">÷</string>
+</resources>
